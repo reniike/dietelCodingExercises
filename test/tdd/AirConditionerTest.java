@@ -13,7 +13,7 @@ public class AirConditionerTest {
     }
 
     @Test
-    public void acOff(){
+     public void acOff(){
         AirConditioner Ac = new AirConditioner();
         Ac.setSwitchOff(true);
         assertEquals(true, Ac.getSwitchOff());
