@@ -1,4 +1,4 @@
-package chapterSix.arrays.chapterFour;
+package chapterFour.chapterFour;
 
 import java.util.Scanner;
 

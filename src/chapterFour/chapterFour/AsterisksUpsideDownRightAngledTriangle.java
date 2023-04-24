@@ -1,4 +1,4 @@
-package chapterSix.arrays.chapterFour;
+package chapterFour.chapterFour;
 
 public class AsterisksUpsideDownRightAngledTriangle {
     public static void main(String[] args) {

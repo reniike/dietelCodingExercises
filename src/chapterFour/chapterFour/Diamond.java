@@ -1,11 +1,9 @@
-package chapterSix.arrays.chapterFour;
+package chapterFour.chapterFour;
 //        (Diamond-Printing Program)
 //   Write an application that prints the following diamond
 //  shape. You may use output statements that print a single asterisk (*),
 //  a single space or a single newline character.
 // Maximize your use of iteration (with nested for statements), and minimize the number of output statements.
-
-import java.util.Scanner;
 
 public class Diamond {
     public static void main(String[] args) {

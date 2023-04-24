@@ -1,4 +1,4 @@
-package chapterSix.arrays.chapterFour;
+package chapterFour.chapterFour;
 
 public class Multiplication14 {
     public static void main(String[] args) {
